@@ -1,0 +1,8 @@
+# OS files
+.DS_Store
+
+# Databricks / temp
+*.tmp
+
+# Optional (if you ever export more)
+*.log
