@@ -138,8 +138,8 @@ It reflects applied learning from:
 ---
 
 ## 🔗 Links
-- GitHub Repository: *https://github.com/barissoy*  
-- HTML Report: [View Full Report](https://htmlpreview.github.io/?https://github.com/barissoy/databricks/blob/main/superstore-sales-analytics/superstore_sales_analysis_databricks_export.html)  
+- GitHub Repository: *https://github.com/barissoy/databricks/tree/main/superstore-sales-analytics*  
+- HTML Report: [View Full Report](https://barissoy.github.io/databricks/superstore-sales-analytics/superstore_sales_analysis_databricks_export.html)  
 - Databricks Notebook: *https://dbc-e720b4f3-ebea.cloud.databricks.com/editor/notebooks/4126665574910875?o=7474658574974869*  
 
 ---
