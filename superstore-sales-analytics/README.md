@@ -56,8 +56,8 @@ The analysis focuses on identifying revenue drivers, margin inefficiencies, and 
 
 ## 📊 Exploratory Analysis (Visuals)
 
-### Data Preview
-![Data Preview](screenshots/01_data_preview.png)
+### Project Overview
+![Project Overview](screenshots/00_project_overview.png)
 
 ### KPI Summary
 ![KPI Summary](screenshots/02_kpi_summary.png)
